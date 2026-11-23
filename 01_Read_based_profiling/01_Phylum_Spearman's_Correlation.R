@@ -8,7 +8,7 @@ library(tibble)
 
 #### Input and output paths
 
-input_file <- "Combined_Rural_Urban_Phylum_Abundance.csv"
+input_file <- "Phylum_Abundance.csv"
 output_dir <- "results"
 
 dir.create(output_dir, showWarnings = FALSE, recursive = TRUE)
